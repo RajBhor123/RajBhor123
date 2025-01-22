@@ -8,11 +8,10 @@
 
 - 💼 Proficient in React, JavaScript, MySQL, Java, Spring Boot, Bootstrap, HTML5, and CSS3.
 
-- 🎯 Currently diving deeper into AWS and React to enhance my skillset.
+- 🎯 Currently diving deeper into **Spring Boot** and **React** to enhance my skillset.
 
 - ✉️  You can reach me by [bhorraj9970@gmail.com](mailto:bhorraj9970@gmail.com)
 
-- 🔍 Currently diving into **Spring Boot** and **React**
 
 ---
 
