@@ -12,7 +12,7 @@
 
 - ✉️  You can reach me by [bhorraj9970@gmail.com](mailto:bhorraj9970@gmail.com)
 
-- 🔍 Currently diving into **AWS** and **React**
+- 🔍 Currently diving into **Spring Boot** and **React**
 
 ---
 
