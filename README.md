@@ -1,7 +1,8 @@
 💻 Welcome to My Digital Laboratory 🧪✨
+
 Hi there! I'm a Full Stack Developer with a passion for building exceptional digital experiences.
 
-🌍 Based in Pune, collaborating locally and globally.
+
 💼 Proficient in ReactJS, Java , JavaScript, MySQL, Spring Boot, Bootstrap HTML5 and CSS3.
 🎯 Currently diving deeper into Spring Boot and React to enhance my skillset.
 🛠️ Skills & Tools
