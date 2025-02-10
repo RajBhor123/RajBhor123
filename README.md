@@ -33,6 +33,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
@@ -48,11 +51,12 @@
 </p>
 
 
+
 [![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RajBhor123&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajBhor123&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 
-<details>
+<!--<details>-->
 
