@@ -10,6 +10,8 @@
 
 - 🎯 Currently diving deeper into **Spring Boot** and **React** to enhance my skillset.
 
+- 🌐 Check out my Portfolio: Raj Bhor Portfolio
+
 - ✉️ You can reach me by [bhorraj9970@gmail.com](mailto:bhorraj9970@gmail.com)
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/raj-bhor)
