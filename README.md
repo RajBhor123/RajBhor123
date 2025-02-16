@@ -61,11 +61,15 @@
 
 
 <details>
-  <summary>🔥 My GitHub Streak</summary>
+  <summary>Details</summary>
+
+  ### 🔥 My GitHub Streak
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajBhor123&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 
 </details>
+
+
 
 
 
