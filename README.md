@@ -6,7 +6,7 @@
 
 - 💻 **Full Stack Developer** passionate about crafting exceptional digital experiences.
 
-- 💼 Proficient in React, JavaScript, MySQL, Java, Spring Boot, Bootstrap, HTML5, and CSS3.
+- 💼 Proficient in React, JavaScript, MySQL, MongoDb, Java, Spring Boot, Bootstrap, HTML5, and CSS3.
 
 - 🎯 Currently diving deeper into **Spring Boot** and **React** to enhance my skillset.
 
@@ -60,5 +60,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajBhor123&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 
-<!--<details>-->
+<details>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajBhor123&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
+
 
