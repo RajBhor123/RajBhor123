@@ -6,7 +6,7 @@
 
 - 💻 **Full Stack Developer** passionate about crafting exceptional digital experiences.
 
-- 💼 Proficient in React, JavaScript, MySQL, MongoDb, Java, Spring Boot, Bootstrap, HTML5, and CSS3.
+- 💼 Proficient in React, JavaScript, MySQL, MongoDB, Java, Spring Boot, Bootstrap, HTML5, and CSS3.
 
 - 🎯 Currently diving deeper into **Spring Boot** and **React** to enhance my skillset.
 
