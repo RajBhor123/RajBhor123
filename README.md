@@ -61,11 +61,24 @@
 
 
 <details>
-  <summary>🔥 My GitHub Streak</summary>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajBhor123&theme=blueberry&hide_border=true" alt="GitHub Streak"/>
-  </p>
+### 🏆 Certifications
+
+1. **Master in Full Stack Web Development with Java**  
+   [View Certificate](https://drive.google.com/file/d/1H9GvPyd0ycvmCmjr7_bW-xT3UEyHCEz7/view)
+   
+2. **IBM Certification for Java Fundamentals**  
+   [View Certificate](https://drive.google.com/file/d/1IZO90g6BFHlk8vbVFEMJzGV3ntC3ZCQ7/view)
+
+3. **IBM Certification for SQL and Relational Database**  
+   [View Certificate](https://drive.google.com/file/d/1Y79y6Igy1kuk9S-uBOZPq18R8P30Pb_j/view)
+
+4. **IBM Certification for Web Development Using HTML**  
+   [View Certificate](https://drive.google.com/file/d/1Cvb2CFQSw3REDxxk1xdBUpRBCQH3pVOa/view)
+
+---
+
+
 
 </details>
 
