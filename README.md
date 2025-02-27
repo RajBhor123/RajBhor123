@@ -2,15 +2,15 @@
 
 <h1 align="center">YOO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> WELCOME TO MY LABORATORY 🧪✨</h1>
 
-### Who am I?
+### Who am I ?
 
-- 💻 **Full Stack Developer** passionate about crafting exceptional digital experiences.
+- 💻 **Full Stack Developerc** passionate about crafting exceptional digital experiences.
 
 - 💼 Proficient in React, JavaScript, MySQL, MongoDB, Java, Spring Boot, Bootstrap, HTML5, and CSS3.
 
 - 🎯 Currently diving deeper into **Spring Boot** and **React** to enhance my skillset.
 
-- 🌐 Check out my Portfolio: [Raj Bhor's Portfolio](https://raj-bhor-portfolio.vercel.app/)
+- 🌐 Check out my Portfolio : [Raj Bhor's Portfolio](https://raj-bhor-portfolio.vercel.app/)
 
 - ✉️ You can reach me by [bhorraj9970@gmail.com](mailto:bhorraj9970@gmail.com)
 
