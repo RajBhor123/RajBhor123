@@ -16,6 +16,10 @@
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/raj-bhor)
 
+---
+
+## 👨‍💻 About Me  
+Skilled in front-end and back-end technologies, including **HTML, CSS, ReactJS, JavaScript, Java, Spring Boot, MySQL, and Bootstrap**. Passionate about keeping up with emerging technologies and enhancing coding skills through continuous learning. Seeking an **entry-level software engineer** role in a **technology-driven firm** to apply and grow my skills in **full-stack development**.
 
 
 ---
@@ -56,9 +60,14 @@
 
 [![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
+---
+
+## 📊 GitHub Stats  
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RajBhor123&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajBhor123&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
+---
 
 <details>
 
@@ -77,6 +86,8 @@
    [View Certificate](https://drive.google.com/file/d/1Cvb2CFQSw3REDxxk1xdBUpRBCQH3pVOa/view)
 
 ---
+
+
 
 
 
