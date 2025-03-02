@@ -67,7 +67,9 @@ Skilled in front-end and back-end technologies, including **HTML, CSS, ReactJS, 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RajBhor123&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajBhor123&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
+----
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RajBhor123&theme=blueberry)](https://git.io/streak-stats)
 
 ---
 
