@@ -69,11 +69,7 @@ Skilled in front-end and back-end technologies, including **HTML, CSS, ReactJS, 
 
 ---
 
-## 🏆 GitHub Achievements  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RajBhor123&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 <details>
 
@@ -100,6 +96,9 @@ Skilled in front-end and back-end technologies, including **HTML, CSS, ReactJS, 
 </details>
 
 
+### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RajBhor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raj-bhor)  
+[![GitHub](https://img.shields.io/badge/GitHub-RajBhor123-black?style=flat&logo=github)](https://github.com/RajBhor123)  
 
 
 
